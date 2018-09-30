@@ -39,5 +39,10 @@
     "mustache": "^2.3.0",
     "socket.io": "^1.7.3"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "parsejson": "0.0.3",
+    "sshpk": "^1.14.2"
+  }
 }
